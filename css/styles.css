@@ -1,0 +1,167 @@
+/**********************************
+            Global
+**********************************/
+
+
+/**********************************
+            Navigation
+**********************************/
+.navbar-brand {
+    color: #a6b1e1!important;
+    font-family: 'Marck Script', cursive;
+    font-size: 2.1rem;
+    font-weight: lighter;
+}
+.navbar {
+    background: rgba(5, 5, 5, 0.883)!important;
+    font-family: 'Rubik', sans-serif;
+    font-size: 1.1rem;
+}
+#nav-left, 
+#nav-right {
+    text-transform: uppercase;
+} 
+#nav-left ul li{
+    padding-left: 2rem;
+}
+#nav-right ul li{
+    padding-right: 2rem;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #a6b1e1;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #424874;
+}
+.navbar-light .navbar-nav .nav-link.active {
+    color: #424874;
+}
+/**********************************
+            Home Page
+**********************************/
+.home-inner {
+    background-image: url(/images/header-img.jpg);
+}
+.down-arrow {
+    width: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 85%;
+    z-index: 1;
+    color: #FFF;
+    text-transform: uppercase;
+}
+.our-story {
+    padding: 2rem;
+    background-color: rgba(112, 55, 22, 0.219);
+}
+.story-statement {
+    padding: 2rem;
+}
+.story-statement h2 {
+    font-size: 5rem;
+    padding-bottom: 3rem;
+    padding-left: 10rem;
+    font-family: 'Marck Script', cursive;
+}
+.story-statement p {
+    font-size: 1.3rem;
+    line-height: 2.5;
+    font-family: 'Rubik', sans-serif;
+    padding: 0 10px 0 10px;
+    margin-left: 10rem;
+}
+.story-img img {
+    width: 18rem;
+    height: 20.5rem;
+    margin-left: 10rem;
+    margin-top: 10.5rem;
+}
+.parallax1 {
+    min-height: 400px;
+    background: transparent;
+}
+.coffee-title {
+    font-size: 10rem;
+    font-family: 'Gochi Hand', cursive;
+    z-index: 2;
+    position: relative;
+    top: 10rem;
+    color: rgba(71, 39, 8, 0.938);
+}
+.eats-title {
+    font-size: 10rem;
+    font-family: 'Gochi Hand', cursive;
+    z-index: 2;
+    position: relative;
+    top: 10rem;
+    color: rgba(71, 39, 8, 0.938);
+}
+
+.info-section {
+    padding: 2rem;
+    background-color: rgba(112, 55, 22, 0.219);
+}
+.info-statement {
+    padding: 2rem;
+}
+.info-statement h2 {
+    font-size: 3rem;
+    padding-bottom: 3rem;
+    padding-right: rem;
+    font-family: 'Marck Script', cursive;
+}
+.info-statement p {
+    font-size: 1.3rem;
+    line-height: 2.5;
+    font-family: 'Rubik', sans-serif;
+    padding: 0 10px 0 10px;
+    margin-right: rem;
+}
+.info-img img {
+    width: 18rem;
+    height: 20.5rem;
+    margin-right: 10rem;
+    margin-top: 10.5rem;
+}
+
+footer {
+    background-color: rgb(5, 5, 5);
+}
+
+.social-logos {
+    color: rgba(71, 39, 8, 0.938);
+}
+
+.footer-copyright {
+    background-color: rgba(71, 39, 8, 0.938);
+    color: rgb(65, 65, 65);
+}
+
+.footer-copyright a {
+    color:rgb(65, 65, 65);
+    text-decoration: none;
+
+}
+
+
+
+/**********************************
+            About Page
+**********************************/
+
+
+/**********************************
+            Menu Page
+**********************************/
+
+
+/**********************************
+            Services Page
+**********************************/
+
+
+/**********************************
+            Contact Page
+**********************************/
